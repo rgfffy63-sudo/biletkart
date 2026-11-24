@@ -1,0 +1,16 @@
+{
+  "name": "БилетКарт — подготовка к экзаменам",
+  "short_name": "БилетКарт",
+  "description": "Карточки по экзаменационным билетам, интервальные повторения и ИИ по твоим конспектам",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#140f2b",
+  "theme_color": "#140f2b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
